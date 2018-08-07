@@ -1,0 +1,11 @@
+{
+  "name": "meshcentral-kvm",
+  "version": "1.0.0",
+  "description": "Mesh Central KVM browser code in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramu Bachala",
+  "license": "ISC"
+}
